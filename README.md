@@ -1,7 +1,7 @@
 This is forked repository with small changes!!!
 
 # EasyOCR
-[![Juri](https://pypi.org/project/sparse/)](https://pypi.org/project/sparse/)
+[![Juri](https://static.wikia.nocookie.net/streetfighter/images/a/a5/Jurirender.png/revision/latest?cb=20170728171238)](https://pypi.org/project/sparse/)
 [![PyPI Status](https://badge.fury.io/py/easyocr.svg)](https://badge.fury.io/py/easyocr)
 [![license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/JaidedAI/EasyOCR/blob/master/LICENSE)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.fan/easyocr)
