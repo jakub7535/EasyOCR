@@ -1,3 +1,5 @@
+This is forked repository with small changes!!!
+
 # EasyOCR
 
 [![PyPI Status](https://badge.fury.io/py/easyocr.svg)](https://badge.fury.io/py/easyocr)
